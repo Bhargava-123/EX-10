@@ -23,7 +23,7 @@ To write a python program for creating File Transfer using TCP Sockets Links.
 ### PROGRAM :
 
 ### CLIENT :
-```
+```py
 import socket
 s = socket.socket()
 host = socket.gethostname()
@@ -44,7 +44,7 @@ s.close()
 print('connection closed')
 ```
 ### SERVER :
-```
+```py
 import socket
 port = 60000
 s = socket.socket()
@@ -85,12 +85,3 @@ while True:
 Thus, the python program for creating File Transfer using TCP Sockets Links was successfully created and executed.
 ALGORITHM :
 
-
-PROGRAM :
-
-
-OUTPUT :
-
-
-
-RESULT :
