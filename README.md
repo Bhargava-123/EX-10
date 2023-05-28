@@ -39,6 +39,8 @@ print('Successfully get the file')
 s.close()
 print('connection closed')
 ```
+<br>
+<br>
 ### SERVER :
 ```py
 import socket
@@ -75,7 +77,7 @@ while True:
 
 ![image](https://github.com/Bhargava-123/EX-10/assets/85554376/d074e8b8-b1cc-4b16-af18-e64a7e01677f)
 
-
+<br>
 ### RESULT :
 
 Thus, the python program for creating File Transfer using TCP Sockets Links was successfully created and executed.
